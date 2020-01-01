@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Chess</string>
+    <string name="button_start">new game</string>
+    <string name="button_load">view previous games</string>
+    <string name="button_resign">resign</string>
+    <string name="buton_draw_offer">offer draw</string>
+    <string name="buton_draw_accept">accept draw</string>
+    <string name="turn_white">turn: white</string>
+    <string name="turn_black">turn: black</string>
+    <string name="button_undo">undo</string>
+    <string name="button_AI">AI</string>
+    <string name="button_save">Save game</string>
+    <string name="button_back">Back to main menu</string>
+    <string name="white_wins">White wins</string>
+    <string name="black_wins">Black wins</string>
+    <string name="game_title">Title of game:</string>
+    <string name="default_title">game name</string>
+    <string name="draw">Draw</string>
+    <string name="button_title">Sort by title</string>
+    <string name="button_date">Sort by date</string>
+    <string name="button_next">next turn</string>
+    <string name="button_prev">previous turn</string>
+    <string name="button_help">help</string>
+    <string name="chess_help">Chess Help</string>
+    <string name="help">
+        To move a piece click on it and it will be highlighted in green.  Then click on the space
+        that you want to move it to.  Pressing AI will cause the current player to make a random
+        move.  Clicking undo will undo the current move.  Only 1 move can be undone at a time.
+        Offer draw will offer a draw to the other player who can then accept it.  Resign ends the
+        game.
+    </string>
+    <string-array name="game_list">
+        <item>sample game</item>
+    </string-array>
+</resources>
